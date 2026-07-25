@@ -1,4 +1,4 @@
-# Calculator+ (macOS)
+# Calculator PRO
 
 A calculator for macOS built with SwiftUI, that you definitely should not use because you have to pay just to unlock functionality 
 
