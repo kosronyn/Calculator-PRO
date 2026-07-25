@@ -1,10 +1,16 @@
-# Disclaimer before reading:
-### I don't even know how to properly use markdown text so I am not responsible for any headache while reading this
+# Calculator+ (macOS)
 
-# Calculator-PRO
- Please don't actually use this...
+A calculator for macOS built with SwiftUI, that you definitely should not use because you have to pay just to unlock functionality 
 
-A modern-ish looking scientific calculator, designed to be used on Mac.
-Notable features include a paywall that restricts access to everything except addition and subtraction.
+## Features
+* **Ridiculous Paywalls:** Get the full macOS desktop experience of paying a monthly subscription just to use multiplication or a decimal point.
+* **Scientific Engine:** Full trigonometry and advanced math for the 3 people on Earth who need to calculate a sine wave inside a paid desktop app.
 
-If you want to add on to this, feel free I don't really care
+## Requirements
+* macOS 13.0 or later
+* Xcode 14.0 or later
+
+## Installation & Setup
+1. Open the project in Xcode.
+2. Hit `Cmd + R` to run it.
+3. Use the built-in calculator in macOS because it's free unlike whatever this is.
